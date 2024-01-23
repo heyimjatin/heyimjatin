@@ -27,22 +27,5 @@
 - 📚 B.Tech in Computer Science.
 
 
-## 🚀 Work Experience
-
-### Software Engineer - GVK EMRI
-
-- Worked on Ambulance tracking Web Application, streamlining the entire process from case assignment to case closure.
-- Developed a responsive UI, enabling ambulance crews to access and update case information on-the-go.
-- Integrated mapmyindia APIs for live map tracking.
-- Automated individual ambulance tasks, improving efficiency.
-- Conducted code reviews and contributed to SQL query development.
-
-### Software Intern - Dotsquares Technologies
-
-- Developed Responsive User Interfaces for a Student Management Web Application.
-- Translated wireframes into functional UI components.
-- Acquired proficiency in HTML, CSS, and JavaScript.
-- Gained experience with version control using Git.
-
 
 <h4>Feel free to explore my repositories and connect with me! 😊</h4>
